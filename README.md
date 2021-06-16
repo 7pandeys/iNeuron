@@ -10,4 +10,4 @@
 
 - Total 100 assignments = 50 subjective and 50 Programs
 - Solve in reverse order.
-- It will take one week to finish 10 problem but then the level of problems will be not that much hard and you will be aware with most of the concepts.
+- It takes one week to solve 10 problems, but the complexity of the problems will not that much tough, and you would know the concepts.
