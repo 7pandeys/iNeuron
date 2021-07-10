@@ -1,5 +1,5 @@
 
-
+https://doselect.com/gateways/test?access_code=7UMPfU2c5IgPDs8p5dquXvsTCGhV0hhl62l5CZJ4Ys0lsTB5jO%2BXMESv2%2BpUyloBUXWsPtC2z7debMXTcxYUt%2BUyLelTRqo8mOm1bpHsLr8%3D
 # iNeuron
 - ![](https://img.shields.io/badge/Code-Python3.9-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 - ![](https://img.shields.io/badge/Assignment-iNeuron-informational?style=flat&logo=<LOGO_NAME>&logoColor=silver&color=orange)
